@@ -115,6 +115,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.1"
+  nested:
+    dependency: transitive
+    description:
+      name: nested
+      sha256: "03bac4c528c64c95c722ec99280375a6f2fc708eec17c7b3f07253b626cd2a20"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.0"
   path:
     dependency: transitive
     description:
@@ -123,6 +131,30 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.8.3"
+  provider:
+    dependency: transitive
+    description:
+      name: provider
+      sha256: cdbe7530b12ecd9eb455bdaa2fcb8d4dad22e80b8afb4798b41479d5ce26847f
+      url: "https://pub.dev"
+    source: hosted
+    version: "6.0.5"
+  responsive_builder:
+    dependency: "direct main"
+    description:
+      name: responsive_builder
+      sha256: a38ba9ba86c9daf08904674553034b651377b1d685d10ee450d8350ae51f76ec
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.7.0"
+  responsive_grid:
+    dependency: "direct main"
+    description:
+      name: responsive_grid
+      sha256: "852b4d46ae4a530e0d54a1dc59964f3d2cd8d6ca1f6fc4e5790cc0580e367e24"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.4.4"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -186,3 +218,4 @@ packages:
     version: "2.1.4"
 sdks:
   dart: ">=3.0.5 <4.0.0"
+  flutter: ">=1.17.0"
